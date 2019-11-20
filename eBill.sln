@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eBill", "eBill\eBill.csproj", "{B20E9CF1-2960-4258-85F4-7D48E37785AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eBill.DataBase", "eBill.DataBase\eBill.DataBase.csproj", "{54CF69C3-034B-43F4-B81A-2C65E859A182}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B20E9CF1-2960-4258-85F4-7D48E37785AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B20E9CF1-2960-4258-85F4-7D48E37785AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B20E9CF1-2960-4258-85F4-7D48E37785AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B20E9CF1-2960-4258-85F4-7D48E37785AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54CF69C3-034B-43F4-B81A-2C65E859A182}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54CF69C3-034B-43F4-B81A-2C65E859A182}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54CF69C3-034B-43F4-B81A-2C65E859A182}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54CF69C3-034B-43F4-B81A-2C65E859A182}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B63AA8DD-3E9F-4FF4-BFC5-1ECD68870D02}
+	EndGlobalSection
+EndGlobal
